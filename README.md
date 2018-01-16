@@ -1,5 +1,3 @@
-# Getting Started
+YouTube Video Search Mock
 
-1. `git clone` this repo
-2. `npm install`
-3. enjoy!
+React | ES6 | YouTube API | Gulp | Babel | Lodash | youtube-api-search ....
